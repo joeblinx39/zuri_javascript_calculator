@@ -1,3 +1,3 @@
 # zuri_javascript_calculator
 
-https://github.com/joeblinx39/zuri_javascript_calculator
+https://joeblinx39.github.io/javascript%20calculator/
